@@ -4,6 +4,8 @@
 
 # Code for illustration purposes only.
 
+# Team: Nishant Shah (@shahnish009) && Vidhi Kamdar (@vdkamdar)
+
 An Android Application to set reminders and notify users based on the location of reminder. User gets notification when in proximity of the reminder location.
 The main feature of this application is, user can choose to Snooze if he wants to perform the task later or choose Complete if the task is completed based on simple Touch Gestures.
 
